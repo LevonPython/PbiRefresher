@@ -1,4 +1,4 @@
-# Power BI refresher
+# Power BI refresher (easy way)
 Script for automation of refreshing Power BI workbooks. Built on Python 3.7 and pyautogui.
 
 Developed for Power BI Desktop May 2019 Update (.69.5467.2151) on Windows 10 64-bit with English locale.
