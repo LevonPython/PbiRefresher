@@ -13,6 +13,7 @@ python PBIRefresher.py Sample.pbix C:\Program Files\Microsoft Power BI Desktop\b
 
 python <py file> <.pbix file> <absolute path to PBIDesktop.exe>
 
+Keep in mind that that user of pbix should be logged in order to be able to publish it.
 Please keep in mind that this script uses GUI of Power BI Desktop and it needs that a user is logged in Windows session. 
 
 # how it works
